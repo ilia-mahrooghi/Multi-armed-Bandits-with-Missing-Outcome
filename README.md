@@ -1,7 +1,7 @@
 # Multi-armed Bandits with Missing Outcomes  
 
 Authors:  
-**Ilia Mahrooghi∗**, **Mahshad Moradi†**, **Sina Akbari‡**, **Negar Kiyavash§**
+**Ilia Mahrooghi**, **Mahshad Moradi**, **Sina Akbari**, **Negar Kiyavash**
 
 ---
 
