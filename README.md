@@ -22,3 +22,12 @@ The study addresses the challenges of decision-making in environments where the 
 ├── data/  
 │   ├── dataset_2186_pbc.arff  # Real-world dataset used in the paper  
 ├── README.md  # Project documentation  
+
+## 📬 Contact  
+
+If you have any questions or require further information about this repository, feel free to reach out:  
+
+- Ilia Mahrooghi: [ilyamahrooghimath@gmail.com]  
+- Mahshad Moradi: [mahshadmoradix@gmail.com]  
+
+Alternatively, you can open an issue in this repository, and we will respond as soon as possible.
